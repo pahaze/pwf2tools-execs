@@ -1,7 +1,7 @@
 sudo apt install git
 sudo apt install make
 sudo apt install cmake
-sudo apt intsall libpng-dev
+sudo apt install libpng-dev
 git clone https://github.com/pahaze/pwf2tools-execs-debian.git
 mkdir bin
 cd pwf2tools-execs-debian
