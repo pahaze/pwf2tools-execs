@@ -4,7 +4,7 @@ sudo apt install cmake
 sudo apt intsall libpng-dev
 git clone https://github.com/pahaze/pwf2tools-execs-debian.git
 mkdir bin
-cd pwf2tools
+cd pwf2tools-execs-debian
 # General Options
   # Which programs to compile
   export PROGS="pwf2int pwf2spm pwf2tex"
