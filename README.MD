@@ -2,8 +2,8 @@
 This is a modded version of RMGRich's/posesix's ptr2tools. It can be built for any target platform providing they have a C++ and C compiler. (Tested with GCC and LLVM-MinGW)
 
 # Dependencies
-CMake 2.6 or higher
-a C and C++ compiler for your target
+CMake 2.6 or higher \
+a C and C++ compiler for your target \
 libpng for your target
 
 # How to build?
