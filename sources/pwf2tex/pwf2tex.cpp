@@ -10,11 +10,11 @@
 #include "gsutil.inc"
 #include <vector>
 #include <string>
-#include <ptr2common.h>
+#include "pwf2common.h"
 
-//For ptr2cmd: 
+//For pwf2cmd: 
 #define MAX_ALIASES 4
-#include <ptr2cmd.h>
+#include "pwf2cmd.h"
 
 #ifdef _WIN32
   #define PRIx64 "llx"

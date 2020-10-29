@@ -15,8 +15,8 @@
 extern "C" {
 #include "lzss.h"
 }
-#include <ptr2common.h>
-#include <ptr2cmd.h>
+#include "pwf2common.h"
+#include "pwf2cmd.h"
 
 #ifdef _WIN32
   #include <direct.h>

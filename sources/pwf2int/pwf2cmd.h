@@ -1,7 +1,7 @@
 #ifndef PTR2CMD_H
 #define PTR2CMD_H
 
-#include <ptr2common.h>
+#include "pwf2common.h"
 
 #ifndef MAX_ALIASES
   #define MAX_ALIASES 3
