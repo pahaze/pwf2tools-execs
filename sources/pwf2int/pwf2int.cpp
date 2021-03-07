@@ -574,7 +574,7 @@ int main(int argc, char *args[]) {
 	return cmd.exec(argc-2, args+2);
       }
     }
-    printf("ptr2int:   Unknown command %s\n", args[1]);
+    printf("pwf2int:   Unknown command %s\n", args[1]);
     return 1;
   }
 }

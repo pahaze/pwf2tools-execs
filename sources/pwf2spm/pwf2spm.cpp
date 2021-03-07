@@ -125,7 +125,7 @@ int main(int argc, char *args[]) {
 		fclose(fmtfile);
       }
     } else {
-      ERROR("ptr2spm:  Unknown command %s\n", args[1]);
+      ERROR("pwf2spm:  Unknown command %s\n", args[1]);
       return 1;
     }
   }
