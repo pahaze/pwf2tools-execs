@@ -1,4 +1,7 @@
 # pwf2tools
+
+[![CodeFactor](https://www.codefactor.io/repository/github/pahaze/pwf2tools-execs/badge)](https://www.codefactor.io/repository/github/pahaze/pwf2tools-execs)
+
 This is a modded version of RMGRich's/posesix's ptr2tools. It can be built for any target platform providing they have a C++ and C compiler. (Tested with GCC and LLVM-MinGW)
 
 # Dependencies
